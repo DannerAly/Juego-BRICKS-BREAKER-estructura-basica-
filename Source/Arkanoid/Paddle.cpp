@@ -63,7 +63,7 @@ void APaddle::NotifyHit(UPrimitiveComponent* MyComp, AActor* Other, UPrimitiveCo
 
 	if (ChoqueBall != nullptr)
 	{
-		UE_LOG(LogTemp, Warning, TEXT("Choque!!!!!!!!ddd"));
+		UE_LOG(LogTemp, Warning, TEXT("Choque!!!ghvgy!!!!!ddd"));
 
 		float LadoX = GetActorLocation().X;
 		float LadoY = GetActorLocation().Y;
