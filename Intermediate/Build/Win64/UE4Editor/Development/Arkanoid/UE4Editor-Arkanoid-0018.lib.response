@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arkanoid-0018.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\ArkanoidEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Arkanoid.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\ArkanoidGameModeBase.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Ball.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Brick.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle_Player_Controller.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Arkanoid.init.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\ArkanoidGameModeBase.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Ball.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Brick.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Paddle_Player_Controller.gen.cpp.obj"
+"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Default.rc2.res"
+/OUT:"E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-0018.lib"

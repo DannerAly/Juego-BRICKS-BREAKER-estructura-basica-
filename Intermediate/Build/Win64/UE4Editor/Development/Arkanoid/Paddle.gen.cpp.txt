@@ -1,0 +1,5 @@
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Source\Arkanoid/Paddle.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Paddle.generated.h

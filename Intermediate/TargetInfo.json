@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Arkanoid",
+			"Path": "E:\\ESTUDIO\\3er semestre\\SIS\\ARKANOID FINAL\\Arkanoid\\Source\\Arkanoid.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArkanoidEditor",
+			"Path": "E:\\ESTUDIO\\3er semestre\\SIS\\ARKANOID FINAL\\Arkanoid\\Source\\ArkanoidEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

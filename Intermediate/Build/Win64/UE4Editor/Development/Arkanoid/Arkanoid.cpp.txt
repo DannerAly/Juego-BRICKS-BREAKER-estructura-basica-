@@ -1,0 +1,2 @@
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Source\Arkanoid\Arkanoid.h

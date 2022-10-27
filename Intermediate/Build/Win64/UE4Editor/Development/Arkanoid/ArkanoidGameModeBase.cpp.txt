@@ -1,0 +1,9 @@
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Source\Arkanoid\ArkanoidGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Source\Arkanoid\Brick.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Brick.generated.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\ArkanoidGameModeBase.generated.h

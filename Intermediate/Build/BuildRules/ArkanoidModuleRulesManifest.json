@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\ESTUDIO\\3er semestre\\SIS\\ARKANOID FINAL\\Arkanoid\\Source\\Arkanoid\\Arkanoid.Build.cs",
+		"E:\\ESTUDIO\\3er semestre\\SIS\\ARKANOID FINAL\\Arkanoid\\Source\\Arkanoid.Target.cs",
+		"E:\\ESTUDIO\\3er semestre\\SIS\\ARKANOID FINAL\\Arkanoid\\Source\\ArkanoidEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

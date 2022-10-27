@@ -1,0 +1,7 @@
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Source\Arkanoid\Ball.h
+E:\ESTUDIO\3er semestre\SIS\ARKANOID FINAL\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\Ball.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
